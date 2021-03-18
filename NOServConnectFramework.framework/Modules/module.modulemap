@@ -1,0 +1,11 @@
+framework module NOServConnectFramework {
+  umbrella header "NOServConnectFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module NOServConnectFramework.Swift {
+    header "NOServConnectFramework-Swift.h"
+    requires objc
+}
