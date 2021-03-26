@@ -14,31 +14,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		N6gaL9f9XJMnl5t3/EPd0LWKYik=
+		mk8l+gghvioXaCwjNGKMrlLdIxA=
 		</data>
-		<key>Modules/NOServConnectFrameworkIOS.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<key>Modules/NOServConnectFrameworkIOS.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		bwcrtJeIdkJgwwTH3nyfdO/hV7c=
+		oP3AMX183a0tbiiOp8NeKQOjnDc=
 		</data>
-		<key>Modules/NOServConnectFrameworkIOS.swiftmodule/Project/arm64.swiftsourceinfo</key>
+		<key>Modules/NOServConnectFrameworkIOS.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		bwcrtJeIdkJgwwTH3nyfdO/hV7c=
+		oP3AMX183a0tbiiOp8NeKQOjnDc=
 		</data>
-		<key>Modules/NOServConnectFrameworkIOS.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<key>Modules/NOServConnectFrameworkIOS.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		0J4iAR0E2JGFUmbbIIMTuKFIOp0=
+		M3gX1dbww3xb25o28k1alZ7bSIk=
 		</data>
-		<key>Modules/NOServConnectFrameworkIOS.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<key>Modules/NOServConnectFrameworkIOS.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		OLyNmqL7AW/3slbRdNRjv9lJxCw=
+		BBrJFoRE+myEFhiUj5XESj7Yygg=
 		</data>
-		<key>Modules/NOServConnectFrameworkIOS.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/NOServConnectFrameworkIOS.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		0J4iAR0E2JGFUmbbIIMTuKFIOp0=
+		M3gX1dbww3xb25o28k1alZ7bSIk=
 		</data>
-		<key>Modules/NOServConnectFrameworkIOS.swiftmodule/arm64.swiftmodule</key>
+		<key>Modules/NOServConnectFrameworkIOS.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		OLyNmqL7AW/3slbRdNRjv9lJxCw=
+		BBrJFoRE+myEFhiUj5XESj7Yygg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -61,46 +61,46 @@
 			XtnakSid5Kb6E7zjOQwcZY88KUo6UdTCjgASwIYbdoc=
 			</data>
 		</dict>
-		<key>Modules/NOServConnectFrameworkIOS.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<key>Modules/NOServConnectFrameworkIOS.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			N6wtyQ3JSlPDNmNG+uZTvi3W7S/MLx8ohhcqdV/c19c=
+			atIBuzJ8EXEb2OBylqIJvSCttpxQy5QV4XS8r30NamI=
 			</data>
 		</dict>
-		<key>Modules/NOServConnectFrameworkIOS.swiftmodule/Project/arm64.swiftsourceinfo</key>
+		<key>Modules/NOServConnectFrameworkIOS.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			N6wtyQ3JSlPDNmNG+uZTvi3W7S/MLx8ohhcqdV/c19c=
+			atIBuzJ8EXEb2OBylqIJvSCttpxQy5QV4XS8r30NamI=
 			</data>
 		</dict>
-		<key>Modules/NOServConnectFrameworkIOS.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<key>Modules/NOServConnectFrameworkIOS.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pXgpUE2vwGDdkXV5R9AWnV3UtK7678HL5HB9eLMhmIM=
+			JBkkNMZhuQi+elTb5YpO/pSoWkDL0oYdvpRpP15LyAY=
 			</data>
 		</dict>
-		<key>Modules/NOServConnectFrameworkIOS.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<key>Modules/NOServConnectFrameworkIOS.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1dnn7GLnxELijfhuT4Bupk7kkvCVx1l/+a95R6nwKXE=
+			yMx0R7l+mf+W4AnK+1s5NOeZ4HAPeigI5LxRfIRTj2s=
 			</data>
 		</dict>
-		<key>Modules/NOServConnectFrameworkIOS.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/NOServConnectFrameworkIOS.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pXgpUE2vwGDdkXV5R9AWnV3UtK7678HL5HB9eLMhmIM=
+			JBkkNMZhuQi+elTb5YpO/pSoWkDL0oYdvpRpP15LyAY=
 			</data>
 		</dict>
-		<key>Modules/NOServConnectFrameworkIOS.swiftmodule/arm64.swiftmodule</key>
+		<key>Modules/NOServConnectFrameworkIOS.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1dnn7GLnxELijfhuT4Bupk7kkvCVx1l/+a95R6nwKXE=
+			yMx0R7l+mf+W4AnK+1s5NOeZ4HAPeigI5LxRfIRTj2s=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
