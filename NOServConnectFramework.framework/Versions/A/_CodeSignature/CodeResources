@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		VgqfNYjzDc4NU6sxmyECopvebeI=
+		J2LZa5+kj+Bgoh0utIvkXDBg/ZU=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -29,42 +29,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7F96zhXQSQHQ3LHzGdeOINr5x1vgjbFxM563B7Vzcw0=
+			TuLhS6a0Cx9STD/gCcWk3rdMC0KJNhBm5rDNahXFnbg=
 			</data>
 		</dict>
 		<key>Modules/NOServConnectFramework.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7F96zhXQSQHQ3LHzGdeOINr5x1vgjbFxM563B7Vzcw0=
+			TuLhS6a0Cx9STD/gCcWk3rdMC0KJNhBm5rDNahXFnbg=
 			</data>
 		</dict>
 		<key>Modules/NOServConnectFramework.swiftmodule/x86_64-apple-macos.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TCihtfW4UF52AS2n2RFqzg527s8gALckDuHjwhpt1A0=
+			gpvXsVzsyg9T2JZo9AfP6mjxrSqb8QDFYu1U/gcebt8=
 			</data>
 		</dict>
 		<key>Modules/NOServConnectFramework.swiftmodule/x86_64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NRBXyeQHY/B36pgxyE4ITQtreyrsmbv2UhcAkbwB408=
+			spxr4WtwrxqbuNLnjCWY6ZcAlZd8BW17Wir1oHVjDjM=
 			</data>
 		</dict>
 		<key>Modules/NOServConnectFramework.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TCihtfW4UF52AS2n2RFqzg527s8gALckDuHjwhpt1A0=
+			gpvXsVzsyg9T2JZo9AfP6mjxrSqb8QDFYu1U/gcebt8=
 			</data>
 		</dict>
 		<key>Modules/NOServConnectFramework.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NRBXyeQHY/B36pgxyE4ITQtreyrsmbv2UhcAkbwB408=
+			spxr4WtwrxqbuNLnjCWY6ZcAlZd8BW17Wir1oHVjDjM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -78,7 +78,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6lNdOljvY3VUxShx2d8I6zeN+DYVXw3zM21AEH2w2Ns=
+			Z/2ZTBcRfYrs1zlqjRQ4KZ9216aJSy8eXnbJTeQ5U6s=
 			</data>
 		</dict>
 	</dict>
